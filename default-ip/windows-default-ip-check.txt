@@ -1,0 +1,7 @@
+
+
+command:
+  
+    docker-machine ip default
+    
+(returns current ip for throwing-requests-to/getting-response-from docker container)
