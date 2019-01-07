@@ -1,0 +1,10 @@
+
+#step 2
+
+download docker toolbox:
+
+https://docs.docker.com/toolbox/
+
+downloading of toolbox is preferable then docker itself, cause it contains necessary additional features,
+
+#but be careful, cause it may override already installed components at target machine! 
