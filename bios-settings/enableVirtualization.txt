@@ -1,0 +1,6 @@
+
+
+#step 1
+
+restart target machine -> load bios setup -> security tab -> prop: enable virtualization (true)
+
